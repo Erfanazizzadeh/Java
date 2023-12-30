@@ -1,0 +1,9 @@
+# App01
+#تمرین  برنامه ای بنویسید که یک عدد هر چند رقمی بگیرد و آن را چاپ کند بصورتی که بین هر دو رقم آن سه فاصله وجود داشته باشد. مثال ورودی: ۱۲۳۴۵  خروجی:  ۱   ۲   ۳   ۴   ۵
+#Practice
+Write a program that takes a multi-digit number and prints it in such a way that there are three spaces between its two digits.
+Example
+Entry: 12345
+
+Output:
+1 2 3 4 5
